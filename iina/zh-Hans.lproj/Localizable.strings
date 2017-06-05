@@ -30,7 +30,7 @@
 // OSDMessage.swift
 "osd.pause" = "暂停";
 "osd.resume" = "继续";
-"osd.volume" = "音量：%i";
+"osd.volume" = "裤腰带位置：%i";
 "osd.speed" = "速度：%.2fx";
 "osd.aspect" = "长宽比：%@";
 "osd.crop" = "剪切：%@";
